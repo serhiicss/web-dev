@@ -6,3 +6,7 @@ Adam Wathan and Steve Schoger refactoring UI design for Laravel.io
 
 October 7, 2017  
 [A Five Minutes Guide to Better Typography](http://pierrickcalvez.com/journal/a-five-minutes-guide-to-better-typography)
+October 23, 2017
+[A Bit on Buttons](https://css-tricks.com/a-bit-on-buttons/)  
+and  
+[But sometimes links look like buttons (and buttons look like links)](https://medium.com/simple-human/but-sometimes-links-look-like-buttons-and-buttons-look-like-links-9b371c57b3d2)
