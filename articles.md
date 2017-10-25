@@ -13,6 +13,6 @@ and
 [But sometimes links look like buttons (and buttons look like links)](https://medium.com/simple-human/but-sometimes-links-look-like-buttons-and-buttons-look-like-links-9b371c57b3d2)  
 Why it is important to not make links as buttons.
 
-October 25, 2017 
+October 25, 2017  
 [The Web Fundamentals Gap](https://zendev.com/2017/10/24/the-web-fundamentals-gap.html)  
 An article about "The Devaluation of CSS".
