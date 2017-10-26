@@ -15,4 +15,6 @@ Why it is important to not make links as buttons.
 
 October 25, 2017  
 [The Web Fundamentals Gap](https://zendev.com/2017/10/24/the-web-fundamentals-gap.html)  
-An article about "The Devaluation of CSS".
+An article about "The Devaluation of CSS".  
+[A Designer’s Guide to Competitor Research](https://medium.com/wayfair-design/a-designers-guide-to-competitor-research-914b0deee25a)  
+Learned about creating a spredsheet of competitor websites and comparing their features.
